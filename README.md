@@ -2,7 +2,7 @@
 
 An ESP32-based smart clock that runs a daily routine on its own: at a set time it switches off a 220 V AC fan, plays a sequence of audio files through a speaker, and turns the fan back on after a set period. Timekeeping is handled by a DS3231 real-time clock with battery backup, so the schedule survives power cuts and never needs Wi-Fi.
 
-![Project photo](images/smart_clock.jpg)
+
 <!-- Add a photo of the finished build at images/smart_clock.jpg -->
 
 ---
